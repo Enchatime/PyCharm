@@ -1,4 +1,4 @@
 def HelloWorld(name):
     print('Hello world ' + name + '!')
 
-HelloWorld('fuck')
+HelloWorld('tester')
